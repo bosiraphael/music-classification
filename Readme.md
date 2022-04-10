@@ -67,7 +67,7 @@ Le fichier confusion_matrix.py permet de plot les matrices de confusion des diff
 
 Le fichier compare_confusion_matrices.py permet de plot les matrice de confusion des différents réseaux sur un même exemple.
 
-### trained-model
+### trained_models
 
 Ce dossier contient des réseaux de neurones que nous avons entrainés ainsi que les résultats et les plots.
 
