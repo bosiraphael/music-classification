@@ -61,7 +61,7 @@ Les scripts suivants permettent de faire de la recherche d'hyperparamètre :
 
 Le fichier "data_loader" contient différentes fonction qui mettent en forme les données contenue dans le fichier "data/data_10.json", ce fichier est dans le drive contenant les données, et peut être regénéré grâce au script "data-processing/to_convert_wav_to_data_in_json"
 
-Le fichier cross_validation.py permet de comparer différents réseaux en effectuant une validation croisé à 5 plis.
+Le fichier cross_validation.py permet de comparer différents réseaux en effectuant une validation croisée à 5 plis.
 
 Le fichier confusion_matrix.py permet de plot les matrices de confusion des différents réseaux.
 
